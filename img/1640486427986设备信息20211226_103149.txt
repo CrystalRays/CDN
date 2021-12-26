@@ -1,0 +1,696 @@
+[概况]
+-------------------------------------------------
+设备:                  GIGABYTE AERO 15XV8 (P65XV8) Notebook 
+操作系统:                Deepin 20 Community Linux version 5.4.70-amd64-desktop (deepin@deepin-PC) (Uos 8.3.0.3-3+rebuild) #2 SMP Wed Jan 6 13:39:30 CST 2021
+处理器:                 Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz (六核 / 十二逻辑处理器)
+主板:                  AERO 15XV8
+内存:                  16GB(TN416G26D819-SB DDR4 2667MHz (0.4ns))/16GB(M471A2K43CB1-CTD DDR4 2667MHz (0.4ns))
+显示适配器:               GP104M [GeForce GTX 1070 Mobile]/UHD Graphics 630 (Mobile)
+音频适配器:               Cannon Lake PCH cAVS/GP104 High Definition Audio Controller
+存储设备:                THNSN5512GPU7 TOSHIBA (512 GB)/WDS100T3X0C-00SJG0 (1.00 TB)
+电池:                  电池
+网络适配器:               RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller/Wireless 8265 / 8275/Ethernet interface
+鼠标:                  HOLTEK USB-HID Keyboard Mouse (Chu Yuen Enterprise USB-HID Keyboard)/Microsoft USB Precision Mouse (Microsoft USB Precision Mouse)/ETPS/2 Elantech Touchpad (ETPS/2 Elantech Touchpad)
+键盘:                  HOLTEK USB-HID Keyboard (Chu Yuen Enterprise USB-HID Keyboard)/AT Translated Set 2 keyboard (AT Translated Set 2 keyboard)
+显示设备:                AUO LCD Monitor(15.5 英寸 (344x193 mm))
+图像设备:                HD WebCam (Sunplus Innovation HD WebCam)
+其他设备:                Intel Bluetooth Device/E353/E3131
+
+[处理器]
+-------------------------------------------------
+  名称                            制造商                           频率                            架构                            
+Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz        Intel(R) Corporation                 0.8-4.1 GHz                      x86_64
+Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz        Intel(R) Corporation                 0.8-4.1 GHz                      x86_64
+Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz        Intel(R) Corporation                 0.8-4.1 GHz                      x86_64
+Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz        Intel(R) Corporation                 0.8-4.1 GHz                      x86_64
+Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz        Intel(R) Corporation                 0.8-4.1 GHz                      x86_64
+Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz        Intel(R) Corporation                 0.8-4.1 GHz                      x86_64
+Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz        Intel(R) Corporation                 0.8-4.1 GHz                      x86_64
+Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz        Intel(R) Corporation                 0.8-4.1 GHz                      x86_64
+Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz        Intel(R) Corporation                 0.8-4.1 GHz                      x86_64
+Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz        Intel(R) Corporation                 0.8-4.1 GHz                      x86_64
+Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz        Intel(R) Corporation                 0.8-4.1 GHz                      x86_64
+Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz        Intel(R) Corporation                 0.8-4.1 GHz                      x86_64
+
+逻辑处理器 0
+名称:                  Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+制造商:                 Intel(R) Corporation
+处理器ID:               0
+核心ID:                0
+当前频率:                3846MHz
+BogoMIPS:            4399.99
+架构:                  x86_64
+家族:                  Core i7
+型号:                  158
+步进:                  10
+L1缓存（数据）:            32K
+L1缓存（指令）:            32K
+L2缓存:                256K
+L3缓存:                9216K
+特性:                  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp md_clear flush_l1d
+
+逻辑处理器 1
+名称:                  Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+制造商:                 Intel(R) Corporation
+处理器ID:               1
+核心ID:                1
+当前频率:                3787MHz
+BogoMIPS:            4399.99
+架构:                  x86_64
+家族:                  Core i7
+型号:                  158
+步进:                  10
+L1缓存（数据）:            32K
+L1缓存（指令）:            32K
+L2缓存:                256K
+L3缓存:                9216K
+特性:                  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp
+
+逻辑处理器 2
+名称:                  Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+制造商:                 Intel(R) Corporation
+处理器ID:               2
+核心ID:                2
+当前频率:                3842MHz
+BogoMIPS:            4399.99
+架构:                  x86_64
+家族:                  Core i7
+型号:                  158
+步进:                  10
+L1缓存（数据）:            32K
+L1缓存（指令）:            32K
+L2缓存:                256K
+L3缓存:                9216K
+特性:                  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp
+
+逻辑处理器 3
+名称:                  Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+制造商:                 Intel(R) Corporation
+处理器ID:               3
+核心ID:                3
+当前频率:                3781MHz
+BogoMIPS:            4399.99
+架构:                  x86_64
+家族:                  Core i7
+型号:                  158
+步进:                  10
+L1缓存（数据）:            32K
+L1缓存（指令）:            32K
+L2缓存:                256K
+L3缓存:                9216K
+特性:                  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp
+
+逻辑处理器 4
+名称:                  Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+制造商:                 Intel(R) Corporation
+处理器ID:               4
+核心ID:                4
+当前频率:                3864MHz
+BogoMIPS:            4399.99
+架构:                  x86_64
+家族:                  Core i7
+型号:                  158
+步进:                  10
+L1缓存（数据）:            32K
+L1缓存（指令）:            32K
+L2缓存:                256K
+L3缓存:                9216K
+特性:                  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp
+
+逻辑处理器 5
+名称:                  Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+制造商:                 Intel(R) Corporation
+处理器ID:               5
+核心ID:                5
+当前频率:                3800MHz
+BogoMIPS:            4399.99
+架构:                  x86_64
+家族:                  Core i7
+型号:                  158
+步进:                  10
+L1缓存（数据）:            32K
+L1缓存（指令）:            32K
+L2缓存:                256K
+L3缓存:                9216K
+特性:                  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp
+
+逻辑处理器 6
+名称:                  Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+制造商:                 Intel(R) Corporation
+处理器ID:               6
+核心ID:                0
+当前频率:                3837MHz
+BogoMIPS:            4399.99
+架构:                  x86_64
+家族:                  Core i7
+型号:                  158
+步进:                  10
+L1缓存（数据）:            32K
+L1缓存（指令）:            32K
+L2缓存:                256K
+L3缓存:                9216K
+特性:                  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp md_clear flush_l1d
+
+逻辑处理器 7
+名称:                  Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+制造商:                 Intel(R) Corporation
+处理器ID:               7
+核心ID:                1
+当前频率:                3866MHz
+BogoMIPS:            4399.99
+架构:                  x86_64
+家族:                  Core i7
+型号:                  158
+步进:                  10
+L1缓存（数据）:            32K
+L1缓存（指令）:            32K
+L2缓存:                256K
+L3缓存:                9216K
+特性:                  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp md_clear flush_l1d
+
+逻辑处理器 8
+名称:                  Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+制造商:                 Intel(R) Corporation
+处理器ID:               8
+核心ID:                2
+当前频率:                3727MHz
+BogoMIPS:            4399.99
+架构:                  x86_64
+家族:                  Core i7
+型号:                  158
+步进:                  10
+L1缓存（数据）:            32K
+L1缓存（指令）:            32K
+L2缓存:                256K
+L3缓存:                9216K
+特性:                  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp md_clear flush_l1d
+
+逻辑处理器 9
+名称:                  Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+制造商:                 Intel(R) Corporation
+处理器ID:               9
+核心ID:                3
+当前频率:                3814MHz
+BogoMIPS:            4399.99
+架构:                  x86_64
+家族:                  Core i7
+型号:                  158
+步进:                  10
+L1缓存（数据）:            32K
+L1缓存（指令）:            32K
+L2缓存:                256K
+L3缓存:                9216K
+特性:                  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp md_clear flush_l1d
+
+逻辑处理器 10
+名称:                  Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+制造商:                 Intel(R) Corporation
+处理器ID:               10
+核心ID:                4
+当前频率:                3861MHz
+BogoMIPS:            4399.99
+架构:                  x86_64
+家族:                  Core i7
+型号:                  158
+步进:                  10
+L1缓存（数据）:            32K
+L1缓存（指令）:            32K
+L2缓存:                256K
+L3缓存:                9216K
+特性:                  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp md_clear flush_l1d
+
+逻辑处理器 11
+名称:                  Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+制造商:                 Intel(R) Corporation
+处理器ID:               11
+核心ID:                5
+当前频率:                3781MHz
+BogoMIPS:            4399.99
+架构:                  x86_64
+家族:                  Core i7
+型号:                  158
+步进:                  10
+L1缓存（数据）:            32K
+L1缓存（指令）:            32K
+L2缓存:                256K
+L3缓存:                9216K
+特性:                  fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp md_clear flush_l1d
+
+[主板]
+-------------------------------------------------
+  
+
+BIOS信息
+制造商:                 American Megatrends Inc.
+版本:                  FB0A
+BIOS修订版本:            5.13
+ROM大小:               16 MB
+发布日期:                08/16/2019
+固件修订版本:              3.8
+地址:                  0xF0000
+特性:                  PCI is supported  /  		BIOS is upgradeable  /  		BIOS shadowing is allowed  /  		Boot from CD is supported  /  		Selectable boot is supported  /  		BIOS ROM is socketed  /  		EDD is supported  /  		5.25"/1.2 MB floppy services are supported (int 13h)  /  		3.5"/720 kB floppy services are supported (int 13h)  /  		3.5"/2.88 MB floppy services are supported (int 13h)  /  		Print screen service is supported (int 5h)  /  		8042 keyboard services are supported (int 9h)  /  		Serial services are supported (int 14h)  /  		Printer services are supported (int 17h)  /  		ACPI is supported  /  		USB legacy is supported  /  		BIOS boot specification is supported  /  		Targeted content distribution is supported  /  		UEFI is supported  /
+运行内存大小:              64 kB
+
+系统信息
+制造商:                 GIGABYTE
+SKU号:                P65XV8
+UUID:                42364749-3130-3030-3036-370000000000
+产品名称:                AERO 15XV8
+唤醒类型:                Power Switch
+家族:                  AERO
+序列号:                 GIG5D0111A0006
+
+主板信息
+制造商:                 GIGABYTE
+芯片组:                 Gigabyte Technology Co., Ltd Device 1653
+SMBIOS版本:            3.1.1
+产品名称:                AERO 15XV8
+包含对象程序:              0
+机箱程序:                0x0003
+特征:                  Board is a hosting board  /  		Board is replaceable  /
+类型:                  Motherboard
+
+内存插槽信息
+位置:                  System Board Or Motherboard
+卡槽数量:                4
+最大容量:                64 GB
+
+[内存]
+-------------------------------------------------
+  名称                            制造商                           类型                            速度                            大小                            
+             TN416G26D819-SB                        066D                        DDR4             2667MHz (0.4ns)                        16GB
+            M471A2K43CB1-CTD                     Samsung                        DDR4             2667MHz (0.4ns)                        16GB
+
+066D TN416G26D819-SB
+名称:                  TN416G26D819-SB
+制造商:                 066D
+大小:                  16GB
+类型:                  DDR4
+速度:                  2667MHz (0.4ns)
+总位宽:                 64 bits
+插槽:                  ChannelA-DIMM0
+序列号:                 00000000
+数据位宽:                64 bits
+配置频率:                2667 MHz
+最低电压:                1.2 V
+最高电压:                1.2 V
+配置电压:                1.2 V
+位列:                  2
+内存通道:                BANK 0
+尺寸型号:                SODIMM
+数组程序:                0x003A
+类型详情:                Synchronous
+资产编号:                9876543210
+部件号码:                TN416G26D819-SB
+
+Samsung M471A2K43CB1-CTD
+名称:                  M471A2K43CB1-CTD
+制造商:                 Samsung
+大小:                  16GB
+类型:                  DDR4
+速度:                  2667MHz (0.4ns)
+总位宽:                 64 bits
+插槽:                  ChannelB-DIMM0
+序列号:                 35D109D6
+数据位宽:                64 bits
+配置频率:                2667 MHz
+最低电压:                1.2 V
+最高电压:                1.2 V
+配置电压:                1.2 V
+位列:                  2
+内存通道:                BANK 2
+尺寸型号:                SODIMM
+数组程序:                0x003A
+类型详情:                Synchronous
+资产编号:                9876543210
+部件号码:                M471A2K43CB1-CTD
+
+[存储设备]
+-------------------------------------------------
+  型号                            制造商                           介质类型                          大小                            
+       THNSN5512GPU7 TOSHIBA         Toshiba Corporation                          固态                      512 GB
+          WDS100T3X0C-00SJG0                Sandisk Corp                          固态                     1.00 TB
+
+THNSN5512GPU7 TOSHIBA
+型号:                  THNSN5512GPU7 TOSHIBA
+制造商:                 Toshiba Corporation
+介质类型:                固态
+大小:                  512 GB
+接口:                  Non-Volatile memory 
+序列号:                 17NS10GVT7DV
+描述:                  disk
+固件版本:                57XA4104
+通电时间:                9,214
+通电次数:                5,551
+几何数据（逻辑）:            CHS 488386/64/32
+硬件类别:                disk
+设备文件:                /dev/nvme0n1, /dev/disk/by-path/pci-0000:04:00.0-nvme-1, /dev/disk/by-id/nvme-THNSN5512GPU7_TOSHIBA__17NS10GVT7DV, /dev/disk/by-id/nvme-eui.00080d02001c8581
+设备编号:                block 259:0
+
+WDS100T3X0C-00SJG0
+型号:                  WDS100T3X0C-00SJG0
+制造商:                 Sandisk Corp
+介质类型:                固态
+大小:                  1.00 TB
+接口:                  Non-Volatile memory 
+序列号:                 2021DP440110
+描述:                  disk
+固件版本:                111110WD
+通电时间:                3,830
+通电次数:                1,426
+几何数据（逻辑）:            CHS 953869/64/32
+硬件类别:                disk
+设备文件:                /dev/nvme1n1, /dev/disk/by-id/nvme-WDS100T3X0C-00SJG0_2021DP440110, /dev/disk/by-path/pci-0000:05:00.0-nvme-1, /dev/disk/by-id/nvme-eui.e8238fa6bf530001001b444a44341245
+设备编号:                block 259:7
+
+[显示适配器]
+-------------------------------------------------
+  名称                            制造商                           型号                            
+GP104M [GeForce GTX 1070 Mobile]          NVIDIA CorporationnVidia GP104M [GeForce GTX 1070 Mobile]
+   UHD Graphics 630 (Mobile)           Intel CorporationIntel UHD Graphics 630 (Mobile)
+
+nVidia GP104M [GeForce GTX 1070 Mobile]
+名称:                  GP104M [GeForce GTX 1070 Mobile]
+制造商:                 NVIDIA Corporation
+型号:                  nVidia GP104M [GeForce GTX 1070 Mobile]
+版本:                  a1
+位宽:                  64 bits
+中断:                  159
+功能:                  pm msi pciexpress vga_controller bus_master cap_list rom
+DVI:                 Unable
+VGA:                 Unable
+HDMI:                Unable
+eDP:                 Unable
+DP:                  Unable
+时钟频率:                33MHz
+描述:                  VGA compatible controller
+驱动:                  nvidia
+总线信息:                pci@0000:01:00.0
+I/O端口:               4000(size=128)
+内存地址:                ac000000-acffffff  80000000-8fffffff  90000000-91ffffff  ad000000-ad07ffff
+物理ID:                0
+子制造商:                Gigabyte Technology Co., Ltd
+延迟:                  0
+设备:                  GP104M [GeForce GTX 1070 Mobile]
+驱动模块:                nvidia
+
+Intel UHD Graphics 630 (Mobile)
+名称:                  UHD Graphics 630 (Mobile)
+制造商:                 Intel Corporation
+型号:                  Intel UHD Graphics 630 (Mobile)
+版本:                  00
+位宽:                  64 bits
+中断:                  136
+功能:                  pciexpress msi pm vga_controller bus_master cap_list rom
+DVI:                 Unable
+VGA:                 Unable
+HDMI:                Unable
+eDP:                 Unable
+DP:                  Unable
+时钟频率:                33MHz
+描述:                  VGA compatible controller
+驱动:                  i915
+总线信息:                pci@0000:00:02.0
+I/O端口:               5000(size=64)
+内存地址:                ab000000-abffffff  40000000-4fffffff  c0000-dffff
+物理ID:                2
+子制造商:                Gigabyte Technology Co., Ltd
+延迟:                  0
+设备:                  UHD Graphics 630 (Mobile)
+驱动模块:                i915
+
+[显示设备]
+-------------------------------------------------
+名称:                  AUO LCD Monitor
+制造商:                 AUO
+类型:                  AUO LCD Monitor
+生产日期:                2017-04
+大小:                  15.5 英寸 (344x193 mm)
+支持分辨率:               3840x2160@60Hz  
+
+[网络适配器]
+-------------------------------------------------
+  名称                            制造商                           型号                            
+RTL8111/8168/8411 PCI Express Gigabit Ethernet ControllerRealtek Semiconductor Co., Ltd.          Ethernet interface
+        Wireless 8265 / 8275           Intel Corporation          Wireless interface
+          Ethernet interface                                      Ethernet interface
+
+RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+名称:                  RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+制造商:                 Realtek Semiconductor Co., Ltd.
+类型:                  Ethernet interface
+版本:                  16
+总线信息:                pci@0000:02:00.0
+功能:                  pm msi pciexpress msix bus_master cap_list ethernet physical tp mii 10bt 10bt-fd 100bt 100bt-fd 1000bt-fd autonegotiation
+驱动:                  r8169
+逻辑名称:                enp2s0
+物理地址:                e0:d5:5e:aa:50:81
+中断:                  18
+内存:                  ad504000-ad504fff  ad500000-ad503fff
+位宽:                  64 bits
+时钟频率:                33MHz
+自动协商:                on
+广播:                  yes
+固件:                  rtl8168h-2_0.0.2
+延迟:                  0
+连接:                  no
+组播:                  yes
+端口:                  MII
+容量:                  1Gbit/s
+I/O端口:               3000(size=256)
+物理ID:                0
+
+Wireless 8265 / 8275
+名称:                  Wireless 8265 / 8275
+制造商:                 Intel Corporation
+类型:                  Wireless interface
+版本:                  78
+总线信息:                pci@0000:03:00.0
+功能:                  pm msi pciexpress bus_master cap_list ethernet physical wireless
+驱动:                  iwlwifi
+驱动版本:                5.4.70-amd64-desktop
+逻辑名称:                wlp3s0
+物理地址:                74:70:fd:76:52:6e
+中断:                  157
+内存:                  ad400000-ad401fff
+位宽:                  64 bits
+时钟频率:                33MHz
+广播:                  yes
+固件:                  36.ad812ee0.0
+延迟:                  0
+连接:                  no
+组播:                  yes
+物理ID:                0
+
+Ethernet interface
+名称:                  Ethernet interface
+类型:                  Ethernet interface
+功能:                  ethernet physical
+驱动:                  bridge
+驱动版本:                2.3
+逻辑名称:                docker0
+物理地址:                02:42:c7:d0:b4:47
+广播:                  yes
+IP:                  172.17.0.1
+连接:                  no
+组播:                  yes
+物理ID:                2
+
+[音频适配器]
+-------------------------------------------------
+  名称                            制造商                           
+        Cannon Lake PCH cAVS           Intel Corporation
+GP104 High Definition Audio Controller          NVIDIA Corporation
+
+Cannon Lake PCH cAVS
+名称:                  Cannon Lake PCH cAVS
+制造商:                 Intel Corporation
+型号:                  Intel Cannon Lake PCH cAVS
+版本:                  01
+总线信息:                pci@0000:00:1f.3
+中断:                  158 (117 events)
+内存:                  0xad100000-0xad1fffff (rw,non-prefetchable)
+位宽:                  64 bits
+时钟频率:                33MHz
+功能:                  pm msi bus_master cap_list
+制造商:                 Intel Corporation
+型号:                  Intel Cannon Lake PCH cAVS
+子制造商:                Gigabyte Technology Co., Ltd
+延迟:                  32
+物理ID:                1f.3
+驱动:                  snd_hda_intel
+驱动激活命令:              modprobe snd_hda_intel modprobe snd_sof_pci
+驱动状态:                snd_sof_pci is active
+
+GP104 High Definition Audio Controller
+名称:                  GP104 High Definition Audio Controller
+制造商:                 NVIDIA Corporation
+型号:                  nVidia GP104 High Definition Audio Controller
+版本:                  a1
+总线信息:                pci@0000:01:00.1
+中断:                  17 (219 events)
+内存:                  0xad080000-0xad083fff (rw,non-prefetchable)
+位宽:                  32 bits
+时钟频率:                33MHz
+功能:                  pm msi pciexpress bus_master cap_list
+制造商:                 nVidia Corporation
+型号:                  nVidia GP104 High Definition Audio Controller
+延迟:                  0
+物理ID:                0.1
+驱动:                  snd_hda_intel
+驱动激活命令:              modprobe snd_hda_intel
+驱动状态:                snd_hda_intel is active
+
+[蓝牙]
+-------------------------------------------------
+驱动:                  btusb
+ACL MTU:             1021:4
+SCO MTU:             96:6
+总线:                  USB
+数据包类型:               DM1 DM3 DM5 DH1 DH3 DH5 HV1 HV2 HV3
+特征:                  0xff 0xfe 0x0f 0xfe 0xdb 0xff 0x7b 0x87
+蓝牙设备地址:              74:70:FD:76:52:72
+连接模式:                SLAVE ACCEPT
+连接策略:                RSWITCH HOLD SNIFF
+
+[其他PCI设备]
+-------------------------------------------------
+未发现其他PCI设备
+[电池]
+-------------------------------------------------
+名称:                  电池
+容量:                  100%
+电压:                  16.775 V
+Daemon版本:            0.99.10
+使用电池:                no
+供电:                  yes
+历史记录:                yes
+可再充电:                yes
+图标:                  'battery-full-charged-symbolic'
+安装路径:                BAT1
+完全充满容量:              94.24 Wh
+容量:                  94.24 Wh
+打开笔记本盖子:             yes
+更新时间:                2021年12月26日 星期日 08时37分46秒 (0 seconds ago)
+最低容量:                0 Wh
+状态:                  fully-charged
+用电统计:                yes
+电压:                  16.775 V
+电池技术:                lithium-ion
+电量:                  100%
+电量极低时执行:             PowerOff
+笔记本合盖:               no
+能量密度:                0 W
+设计容量:                94.24 Wh
+
+[键盘]
+-------------------------------------------------
+  名称                            制造商                           型号                            
+     HOLTEK USB-HID KeyboardChu Yuen Enterprise Co., LtdChu Yuen Enterprise USB-HID Keyboard
+AT Translated Set 2 keyboard                      0x0001AT Translated Set 2 keyboard
+
+HOLTEK USB-HID Keyboard
+名称:                  HOLTEK USB-HID Keyboard
+制造商:                 Chu Yuen Enterprise Co., Ltd
+型号:                  Chu Yuen Enterprise USB-HID Keyboard
+接口:                  USB
+总线信息:                1-11:1.0
+版本:                  3.08
+驱动:                  usbhid
+频率:                  12 Mbps
+硬件类别:                keyboard
+设备文件:                /dev/input/event14, /dev/input/by-path/pci-0000:00:14.0-usb-0:11:1.0-event-kbd, /dev/input/by-id/usb-HOLTEK_USB-HID_Keyboard_AP0000000003-event-kbd
+
+AT Translated Set 2 keyboard
+名称:                  AT Translated Set 2 keyboard
+制造商:                 0x0001
+型号:                  AT Translated Set 2 keyboard
+接口:                  PS/2
+硬件类别:                keyboard
+设备文件:                /dev/input/event5, /dev/input/by-path/platform-i8042-serio-0-event-kbd
+
+[鼠标]
+-------------------------------------------------
+  名称                            制造商                           型号                            
+HOLTEK USB-HID Keyboard MouseChu Yuen Enterprise Co., LtdChu Yuen Enterprise USB-HID Keyboard
+Microsoft USB Precision Mouse                   MicrosoftMicrosoft USB Precision Mouse
+    ETPS/2 Elantech Touchpad                      0x0002    ETPS/2 Elantech Touchpad
+
+HOLTEK USB-HID Keyboard Mouse
+名称:                  HOLTEK USB-HID Keyboard Mouse
+制造商:                 Chu Yuen Enterprise Co., Ltd
+型号:                  Chu Yuen Enterprise USB-HID Keyboard
+接口:                  USB
+总线信息:                1-11:1.2
+版本:                  3.08
+驱动:                  usbhid
+频率:                  12 Mbps
+硬件类别:                mouse
+设备文件:                /dev/input/mice, /dev/input/mouse2, /dev/input/event15, /dev/input/js0, /dev/input/by-id/usb-HOLTEK_USB-HID_Keyboard_AP0000000003-if02-event-mouse, /dev/input/by-path/pci-0000:00:14.0-usb-0:11:1.2-event-mouse, /dev/input/by-id/usb-HOLTEK_USB-HID_Keyboard_AP0000000003-if02-mouse, /dev/input/by-path/pci-0000:00:14.0-usb-0:11:1.2-mouse
+
+Microsoft USB Precision Mouse
+名称:                  Microsoft USB Precision Mouse
+制造商:                 Microsoft
+型号:                  Microsoft USB Precision Mouse
+接口:                  USB
+总线信息:                usb@1:4
+版本:                  2.16
+功能:                  usb-2.01
+驱动:                  usbhid
+最大功率:                400mA
+频率:                  12Mbit/s
+物理ID:                4
+硬件类别:                mouse
+设备文件:                /dev/input/mice, /dev/input/mouse1, /dev/input/event9, /dev/input/by-id/usb-Microsoft_USB_Precision_Mouse-event-mouse, /dev/input/by-path/pci-0000:00:14.0-usb-0:4:1.0-event-mouse, /dev/input/by-id/usb-Microsoft_USB_Precision_Mouse-mouse, /dev/input/by-path/pci-0000:00:14.0-usb-0:4:1.0-mouse
+
+ETPS/2 Elantech Touchpad
+名称:                  ETPS/2 Elantech Touchpad
+制造商:                 0x0002
+型号:                  ETPS/2 Elantech Touchpad
+接口:                  PS/2
+硬件类别:                mouse
+设备文件:                /dev/input/mice, /dev/input/mouse0, /dev/input/event8, /dev/input/by-path/platform-i8042-serio-1-event-mouse, /dev/input/by-path/platform-i8042-serio-1-mouse
+
+[打印机]
+-------------------------------------------------
+未发现打印机
+[图像设备]
+-------------------------------------------------
+名称:                  HD WebCam
+制造商:                 27C40-06N20-L01S8385C1
+版本:                  0.03
+型号:                  Sunplus Innovation HD WebCam
+总线信息:                usb@1:9
+功能:                  usb-2.00
+驱动:                  uvcvideo
+最大功率:                500mA
+速度:                  480Mbit/s
+
+[光驱]
+-------------------------------------------------
+未发现光驱
+[其他设备]
+-------------------------------------------------
+  名称                            制造商                           型号                            
+                                             Intel Corp.      Intel Bluetooth Device
+                  E353/E3131Huawei Technologies Co., Ltd.           Huawei E353/E3131
+
+Intel Bluetooth Device
+制造商:                 Intel Corp.
+型号:                  Intel Bluetooth Device
+版本:                  0.10
+总线信息:                usb@1:10
+驱动:                  btusb
+速度:                  12 Mbps
+
+Huawei E353/E3131
+名称:                  E353/E3131
+制造商:                 Huawei Technologies Co., Ltd.
+型号:                  Huawei E353/E3131
+版本:                  1.02
+总线信息:                usb@1:3
+功能:                  usb-2.10 ethernet physical
+驱动:                  cdc_ether
+最大功率:                2mA
+速度:                  480Mbit/s
+
